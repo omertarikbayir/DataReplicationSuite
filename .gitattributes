@@ -1,0 +1,10 @@
+
+*.cs linguist-language=C#
+*.csproj linguist-language=C#
+*.sln linguist-language=C#
+*.xaml linguist-language=C#
+*.resx linguist-language=C#
+
+*.xaml linguist-language=C#
+
+*.sln linguist-language=C#
