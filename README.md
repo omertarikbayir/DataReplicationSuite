@@ -72,7 +72,7 @@ DataReplicationSuite/
 ### 1. Klonlama
 
 ```bash
-git clone https://github.com/your-org/DataReplicationSuite.git
+git clone https://github.com/omertarikbayir/DataReplicationSuite.git
 cd DataReplicationSuite
 ```
 
@@ -348,7 +348,7 @@ DataReplicationSuite/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/your-org/DataReplicationSuite.git
+git clone https://github.com/omertarikbayir/DataReplicationSuite.git
 cd DataReplicationSuite
 ```
 
