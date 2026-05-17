@@ -1,0 +1,88 @@
+## Build output
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.pdb
+*.mdb
+*.cache
+*.log
+*.binlog
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+*.sln.iml
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.fragment.lock.json
+
+## Publish
+publish/
+*.Publish.xml
+*.pubxml
+*.pubxml.user
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+.opencover.xml
+report.html
+
+## Environment / secrets
+.env
+.env.*
+*.secret.json
+secrets.json
+*.pfx
+*.p12
+
+
+## WPF
+AppPackages/
+*.msix
+*.appx
+*.appxbundle
+
+## Generated files
+*.g.cs
+*.generated.cs
+*.designer.cs
+*.resx
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Windows
+Thumbs.db
+Desktop.ini
+
+## Node (WPF frontend assets, if any)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
